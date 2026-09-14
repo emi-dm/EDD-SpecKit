@@ -1,0 +1,11 @@
+specify init penalib --integration claude
+cd penalib
+
+git init
+specify extension add git
+
+git add -A
+git commit -m "chore: Spec Kit scaffolding"
+
+git status
+claude

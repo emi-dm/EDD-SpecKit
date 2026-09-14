@@ -1,0 +1,8 @@
+# Nada que ignorar por ahora; este repositorio sólo contiene material publicado.
+# Por si acaso, y porque va a haber gente clonándolo dentro de su proyecto:
+.claude/settings.local.json
+.specify/
+specs/
+__pycache__/
+*.pyc
+.venv/

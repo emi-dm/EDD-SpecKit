@@ -1,0 +1,3 @@
+/speckit-implement Implement only the tasks related to the
+pure penalty calculation module and its tests. Do not
+implement persistence or the command-line interface yet.

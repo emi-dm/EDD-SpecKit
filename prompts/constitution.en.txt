@@ -1,0 +1,9 @@
+/speckit-constitution Create the principles for a small
+Python command-line project maintained by students.
+Priorities: (1) every business rule must be covered by at
+least one automated test with an edge case; (2) amount and
+date calculations must be deterministic and must not depend
+on the machine's time zone; (3) no external dependencies
+other than the test framework; (4) any visible behaviour
+change requires updating the specification before the code;
+(5) the code must be clean and readable.

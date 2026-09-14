@@ -1,0 +1,4 @@
+/speckit-implement Implementa unicamente las tareas relativas
+al modulo puro de calculo de penalizaciones y sus pruebas.
+No implementes todavia la persistencia ni la interfaz de
+linea de comandos.

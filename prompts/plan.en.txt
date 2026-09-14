@@ -1,0 +1,7 @@
+/speckit-plan A command-line application in Python 3.11 using
+the standard library only, plus pytest. Persistence is a
+single JSON file in the working directory. No database, no
+server, no web interface. Dates are handled with date, never
+with datetime. The penalty calculation logic must live in a
+pure module, with no input/output, so it can be tested in
+isolation.

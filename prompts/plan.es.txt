@@ -1,0 +1,7 @@
+/speckit-plan Aplicacion de linea de comandos en Python 3.11
+usando exclusivamente la biblioteca estandar, mas pytest.
+La persistencia es un unico fichero JSON en el directorio de
+trabajo. Sin base de datos, sin servidor, sin interfaz web.
+Las fechas se manejan con date, nunca con datetime. La logica
+de calculo de penalizaciones debe estar en un modulo puro,
+sin entrada/salida, para poder probarla de forma aislada.

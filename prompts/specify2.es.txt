@@ -1,0 +1,5 @@
+/speckit-specify Actualiza la especificación existente: los socios pasan a tener un tipo
+(estudiante o profesorado). Los estudiantes disponen de tres días de gracia desde el vencimiento antes de que
+se genere penalización, y su tope máximo baja a 10 euros. El profesorado no genera penalizaciones, pero su
+límite de préstamos simultáneos es de cinco. El personal de biblioteca puede condonar una penalización con un
+motivo obligatorio, registrando quién condona y en qué fecha.

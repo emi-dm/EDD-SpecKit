@@ -1,0 +1,6 @@
+/speckit-specify The school library lends books to its
+members. Every loan has a checkout date and a due date.
+When a member returns a book later than the due date, a
+penalty is generated. A member with outstanding penalties
+cannot borrow any more books. We need a tool that records
+loans and returns and computes the penalties.

@@ -1,0 +1,8 @@
+/speckit-specify La biblioteca del centro presta libros a
+sus socios. Cada prestamo tiene una fecha de salida y una
+fecha de devolucion prevista. Cuando un socio devuelve un
+libro mas tarde de lo previsto se genera una penalizacion.
+Un socio que tenga penalizaciones pendientes no puede
+llevarse mas libros. Necesitamos una herramienta que
+registre prestamos y devoluciones y que calcule las
+penalizaciones.

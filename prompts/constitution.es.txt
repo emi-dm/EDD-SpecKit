@@ -1,0 +1,10 @@
+/speckit-constitution Crea los principios de un proyecto
+pequeno de linea de comandos en Python mantenido por
+estudiantes. Prioridades: (1) toda regla de negocio debe
+estar cubierta por al menos una prueba automatica con un
+caso limite; (2) el calculo de importes y fechas debe ser
+determinista y no depender de la zona horaria del equipo;
+(3) sin dependencias externas salvo el marco de pruebas;
+(4) todo cambio de comportamiento visible obliga a
+actualizar la especificacion antes que el codigo;
+(5) el codigo debe ser limpio y legible.
