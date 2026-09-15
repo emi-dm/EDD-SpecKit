@@ -2,7 +2,7 @@
 
 ### Taller práctico · Extremadura Digital Day (EDD)
 
-![Extremadura Digital Day](https://extremaduradigitalday.com/storage/edd-imagotipo-derecha.webp)
+<img src="https://extremaduradigitalday.com/storage/logo-rectangular-edd25.webp" alt="Extremadura Digital Day" width="250">
 
 **Del enunciado ambiguo a la especificación ejecutable.** 90 minutos, con las manos en el teclado.
 
