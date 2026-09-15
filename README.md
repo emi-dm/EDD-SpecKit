@@ -4,6 +4,9 @@
 
 <img src="https://extremaduradigitalday.com/storage/logo-rectangular-edd25.webp" alt="Extremadura Digital Day" width="250">
 
+<img src="https://intia.unex.es/media/logo_hu_ad5da9a51aea4e65.png" alt="Extremadura Digital Day" width="120">
+
+
 **Del enunciado ambiguo a la especificación ejecutable.** 90 minutos, con las manos en el teclado.
 
 Aquí tienes las **transparencias** y todos los **prompts y órdenes** que usamos durante la sesión,
