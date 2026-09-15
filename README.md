@@ -2,6 +2,8 @@
 
 ### Taller práctico · Extremadura Digital Day (EDD)
 
+![Extremadura Digital Day](https://extremaduradigitalday.com/storage/edd-imagotipo-derecha.webp)
+
 **Del enunciado ambiguo a la especificación ejecutable.** 90 minutos, con las manos en el teclado.
 
 Aquí tienes las **transparencias** y todos los **prompts y órdenes** que usamos durante la sesión,
@@ -43,8 +45,8 @@ prompts/    Los prompts y órdenes del taller, listos para copiar
 
 ### Transparencias
 
-| Fichero | |
-|---|---|
+| Fichero                                                        |         |
+| -------------------------------------------------------------- | ------- |
 | [`slides/slides-sdd-edd.es.pdf`](slides/slides-sdd-edd.es.pdf) | Español |
 | [`slides/slides-sdd-edd.en.pdf`](slides/slides-sdd-edd.en.pdf) | English |
 
@@ -53,16 +55,16 @@ prompts/    Los prompts y órdenes del taller, listos para copiar
 Están en texto plano y **sin acentos**, a propósito: así se copian y pegan en cualquier terminal
 sin sorpresas de codificación.
 
-| Fichero | Cuándo se usa |
-|---|---|
-| [`prompts/bashrc-openrouter.txt`](prompts/bashrc-openrouter.txt) | Antes del taller: las cuatro variables que conectan Claude Code con OpenRouter |
-| [`prompts/install.txt`](prompts/install.txt) | Antes del taller: instalar la CLI de Spec Kit con la versión fijada |
-| [`prompts/init.txt`](prompts/init.txt) | Bloque A: `specify init`, `git init` y primer commit |
-| [`prompts/constitution.es.txt`](prompts/constitution.es.txt) · [`.en.txt`](prompts/constitution.en.txt) | Bloque A: la constitución del proyecto |
-| [`prompts/specify.es.txt`](prompts/specify.es.txt) · [`.en.txt`](prompts/specify.en.txt) | Bloque A: el enunciado de la biblioteca |
-| [`prompts/plan.es.txt`](prompts/plan.es.txt) · [`.en.txt`](prompts/plan.en.txt) | Bloque B: el plan técnico |
-| [`prompts/implement.es.txt`](prompts/implement.es.txt) · [`.en.txt`](prompts/implement.en.txt) | Bloque B: implementación acotada al módulo de cálculo |
-| [`prompts/specify2.es.txt`](prompts/specify2.es.txt) · [`.en.txt`](prompts/specify2.en.txt) | Bloque C: el cambio de requisito |
+| Fichero                                                                                                 | Cuándo se usa                                                                  |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [`prompts/bashrc-openrouter.txt`](prompts/bashrc-openrouter.txt)                                        | Antes del taller: las cuatro variables que conectan Claude Code con OpenRouter |
+| [`prompts/install.txt`](prompts/install.txt)                                                            | Antes del taller: instalar la CLI de Spec Kit con la versión fijada            |
+| [`prompts/init.txt`](prompts/init.txt)                                                                  | Bloque A: `specify init`, `git init` y primer commit                           |
+| [`prompts/constitution.es.txt`](prompts/constitution.es.txt) · [`.en.txt`](prompts/constitution.en.txt) | Bloque A: la constitución del proyecto                                         |
+| [`prompts/specify.es.txt`](prompts/specify.es.txt) · [`.en.txt`](prompts/specify.en.txt)                | Bloque A: el enunciado de la biblioteca                                        |
+| [`prompts/plan.es.txt`](prompts/plan.es.txt) · [`.en.txt`](prompts/plan.en.txt)                         | Bloque B: el plan técnico                                                      |
+| [`prompts/implement.es.txt`](prompts/implement.es.txt) · [`.en.txt`](prompts/implement.en.txt)          | Bloque B: implementación acotada al módulo de cálculo                          |
+| [`prompts/specify2.es.txt`](prompts/specify2.es.txt) · [`.en.txt`](prompts/specify2.en.txt)             | Bloque C: el cambio de requisito                                               |
 
 Da igual en qué idioma escribas al agente. Lo que **no** debe cambiar dentro del grupo es el
 contenido: si cada pareja parte de un enunciado distinto, no podremos comparar resultados.
@@ -71,16 +73,16 @@ contenido: si cada pareja parte de un enunciado distinto, no podremos comparar r
 
 ## Agenda de los 90 minutos
 
-| Min | Bloque | Contenido |
-|---|---|---|
-| 0–5 | Arranque | Comprobación del entorno |
-| 5–12 | Marco | SDD en cinco minutos y el caso PenaLib |
-| 12–25 | A | `init` y constitución |
-| 25–45 | A | `specify`, lectura crítica y `clarify` |
-| 45–58 | B | `plan`, `tasks` y `analyze` |
-| 58–72 | B | `implement` de la primera versión |
-| 72–85 | C | El cambio de requisito |
-| 85–90 | Cierre | Puesta en común, límites y críticas |
+| Min   | Bloque   | Contenido                              |
+| ----- | -------- | -------------------------------------- |
+| 0–5   | Arranque | Comprobación del entorno               |
+| 5–12  | Marco    | SDD en cinco minutos y el caso PenaLib |
+| 12–25 | A        | `init` y constitución                  |
+| 25–45 | A        | `specify`, lectura crítica y `clarify` |
+| 45–58 | B        | `plan`, `tasks` y `analyze`            |
+| 58–72 | B        | `implement` de la primera versión      |
+| 72–85 | C        | El cambio de requisito                 |
+| 85–90 | Cierre   | Puesta en común, límites y críticas    |
 
 ---
 
